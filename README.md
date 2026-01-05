@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/license-GPL--3.0-green.svg" alt="License">
 </p>
 
-# TML — Trustworthy Machine Learning
+# TML — Transductive Machine Learning
 
 A Python package for **dropout-based uncertainty quantification** and **dataset pruning** in binary classification tasks. TML implements a two-level training pipeline that uses Monte Carlo Dropout to produce reliable probability scores with associated uncertainty estimates.
 
@@ -266,7 +266,7 @@ If you use TML in your research, please cite:
 ```bibtex
 @software{tml2024,
   author = {Karimiara, Ehsan},
-  title = {TML: Trustworthy Machine Learning},
+  title = {TML: Transductive Machine Learning},
   year = {2024},
   url = {https://github.com/EhsanKA/tml}
 }
